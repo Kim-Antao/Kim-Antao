@@ -1,20 +1,24 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=d77a61&height=170&section=header&text=%20Hi,%20I'm+Kimberley!&animation=fadeIn&fontSize=70" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&color=D77A61&center=true&width=435&lines=A+Software+developer+in+progress!" alt="Typing SVG" /></a>
+</h1>
 
-
-<h3 align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=d77a61&height=170&section=header&text=%20Hi,%20I'm+Kimberley!&animation=fadeIn&fontSize=70" />
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <a href="www.linkedin.com/in/kimberley-antao-1a13aa10a" target="_blank" >
+    <img src="https://github.com/user-attachments/assets/0b394bab-dd79-430d-aec5-894eb7b1558e" alt="LinkedIn logo" width="40" height="40"/>
+  </a>&nbsp&nbsp
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/e58783c9-137b-4684-ad64-edd1ab8e75ff" alt="Gmail logo" width="40" height="40"/>
+  </a>&nbsp&nbsp
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/4d399a41-60fc-4fb5-8d51-78029320ed69" alt="Portfolio icon" width="40" />
+  </a>  
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&color=D77A61&center=true&width=435&lines=A+Software+developer+in+progress!" alt="Typing SVG" /></a>
-
-</h3>
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **Kimberley@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Kimberley Antao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
-</p>
+ 
+   
+  
+</div>
 
 
 
