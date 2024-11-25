@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kimberley</h1>
-<h3 align="center">A Software developer in progress</h3>
 
+
+<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=d77a61&height=170&section=header&text=%20Hi,%20I'm+Kimberley!&animation=fadeIn&fontSize=70" />
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&color=D77A61&center=true&width=435&lines=A+Software+developer+in+progress!" alt="Typing SVG" /></a>
+
+</h3>
 
 - 🌱 I’m currently learning **Java**
 
@@ -10,6 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/Kimberley Antao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
