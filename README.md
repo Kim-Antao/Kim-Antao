@@ -44,6 +44,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
 </div>
 
+![Snake animation](https://github.com/kim-antao/kim-antao/blob/output/github-contribution-grid-snake.svg)
 
 
 
