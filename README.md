@@ -40,8 +40,8 @@
 </div>
 <br/>
 <div align="center">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr&card_width=500"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr&card_width=380"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
 
   </div>
 
