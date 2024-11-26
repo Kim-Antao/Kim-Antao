@@ -40,7 +40,7 @@
 </div>
 <br/>
 <div >
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr&card-width=300"/>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
 
   </div>
