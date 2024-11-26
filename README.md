@@ -35,10 +35,13 @@
 <br/>
 
 <h3 align="center">My Github History:</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim-antao&theme=codeSTACKr&card_width=1000" alt="kim-antao" />
-<div>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr&card_width=500"/>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim-antao&theme=codeSTACKr&card_width=1000" alt="kim-antao" />
+</div>
+<br/>
+<div align="center">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr&card_width=500"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr&card_width=380"/>
 
   </div>
 
