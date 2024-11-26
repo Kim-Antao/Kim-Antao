@@ -39,11 +39,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim-antao&theme=codeSTACKr&card_width=1000" alt="kim-antao" />
 </div>
 <br/>
-<div >
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr&card_width=300"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
-
-  </div>
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kim-antao&show_icons=true&theme=codeSTACKr&card_width=300"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
+</div>
 
 
 
