@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="www.linkedin.com/in/kimberley-antao-1a13aa10a" target="_blank" >
+  <a href="https://linkedin.com/in/kimberley-antao-1a13aa10a" target="_blank" >
     <img src="https://github.com/user-attachments/assets/0b394bab-dd79-430d-aec5-894eb7b1558e" alt="LinkedIn logo" width="40" height="40"/>
   </a>&nbsp&nbsp;
   <a href="mailto:kimberley2609@gmail.com" target="_blank">
