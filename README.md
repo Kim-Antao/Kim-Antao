@@ -44,7 +44,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-antao&layout=compact&theme=codeSTACKr"/>
 </div>
 
-![Snake animation](https://github.com/Kim-Antao/Kim-Antao/blob/output/github-snake.svg)
+<div align="center">
+  <img src="https://github.com/Kim-Antao/Kim-Antao/blob/output/github-snake.svg" />
+</div>
 
 
 
